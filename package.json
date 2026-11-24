@@ -1,0 +1,1 @@
+{"description":"Launch sniper for the pump.fun paper-trading replay (agent-fun/replay/v2).","license":"MIT","main":"main.ts","name":"u-boothlord-pump-fun-paper-sprint-any-bot-can-f83c389b","scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
